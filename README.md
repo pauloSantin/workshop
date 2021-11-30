@@ -15,6 +15,7 @@ Repository for workshop and lab about tech, just fun. :)
 
 ## 01_boardPass
 Example of board pass, using html/css.
+![hardest-programming-language](https://github.com/pauloSantin/workshop/blob/main/01_boardPass/imgs/boardPassExample.png)
 
 ## Créditos
 
