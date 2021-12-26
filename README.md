@@ -19,7 +19,10 @@ Example of board pass, using html/css.
 
 ## 02_quizApps
 Quiz app, using HTML/CSS/JavaScript with Score.
-![hardest-programming-language](https://github.com/pauloSantin/workshop/blob/main/01_boardPass/imgs/boardPassExample.png)
+![hardest-programming-language](https://github.com/pauloSantin/workshop/blob/main/02_quizApp/imgs/quizApp.png)
+
+
+
 
 ## Créditos
 
