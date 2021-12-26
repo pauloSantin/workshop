@@ -17,6 +17,9 @@ Repository for workshop and lab about tech, just fun. :)
 Example of board pass, using html/css.
 ![hardest-programming-language](https://github.com/pauloSantin/workshop/blob/main/01_boardPass/imgs/boardPassExample.png)
 
+## 02_quizApps
+Quiz app, using HTML/CSS/JavaScript with Score.
+
 ## Créditos
 
 Copyright (C) 2021 by Paulo O. Santin
