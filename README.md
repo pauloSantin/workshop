@@ -1,4 +1,4 @@
-![hardest-programming-language](https://ada.vc/wp-content/uploads/2019/04/IMG_0732-1000x707.jpg)
+![hardest-programming-language](https://github.com/pauloSantin/learning/blob/maina0/fundo.jpg)
 
 
 <p align="center">
